@@ -1,0 +1,24 @@
+.reg_form {
+    font-weight: 300;
+    color: #1d3769;
+    text-align: left;
+    margin-top: 25%;
+}
+
+.r-f-text {
+    font-size: 3vh;
+}
+
+.main {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.reg_l {
+    font-weight: 300;
+    color: #1d3769;
+    text-align: center;
+    margin-top: 9%;
+}

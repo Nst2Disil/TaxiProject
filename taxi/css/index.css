@@ -1,0 +1,22 @@
+.main-page {
+    display: grid;
+}
+
+.m-p-info {
+    display: flex;
+    padding: 0vh 10vw 0vh 12vw;
+    align-items: center;
+}
+
+.m-p-text {
+    font-size: 3.5em;
+    font-weight: 600;
+    color: #1d3769;
+    margin-right: 5vw;
+    margin-left: -6vw;
+}
+
+.m-p-img {
+    width: 76%;
+    height: 80vh;
+}

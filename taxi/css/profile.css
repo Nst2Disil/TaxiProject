@@ -1,0 +1,56 @@
+.profile-container {
+    display: flex;
+    align-items: center;
+    padding: 5vh;
+}
+
+.profile-photo {
+    margin-right: 20px;
+}
+
+.p-i-text {
+    font-size: 1.8em;
+    font-weight: 600;
+    color: #1d3769;
+}
+
+/* Стили для блока с информацией о машине */
+#car-info {
+    display: none;
+    /* Изначально скрываем блок */
+}
+
+.container {
+    display: flex;
+}
+
+.p-i-text-change {
+    font-size: 1.8em;
+    font-weight: 600;
+    color: #1d3769;
+}
+
+.p-i-text-change:hover {
+    color: #4e93b8;
+}
+
+.p-i-car {
+    font-size: 1.3em;
+    font-weight: 600;
+    color: #1d3769;
+}
+
+.profile-info {
+    display: inline-block;
+}
+
+.car_info {
+    display: inline-block;
+    margin-left: 8vw;
+}
+
+.button {
+    position: absolute;
+    bottom: 15vh;
+    right: 10vw;
+}

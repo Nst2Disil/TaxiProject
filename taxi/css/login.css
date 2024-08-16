@@ -1,0 +1,19 @@
+.main-log {
+    display: flex;
+    margin-top: 6%;
+    margin-bottom: 6%;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 50vh;
+}
+
+.m-l-text {
+    font-size: 2.5em;
+    font-weight: 600;
+    color: #1d3769;
+}
+
+.m-l-text:hover {
+    color: #4e93b8;
+}

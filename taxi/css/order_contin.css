@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    margin-top: 6%;
+    margin-bottom: 6%;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 50vh;
+}
+
+.buttons-container {
+    /* display: flex; */
+    text-align: center;
+    position: fixed;
+    bottom: 15vh;
+    width: 100%;
+}
+
+.button {
+    padding: 5px 10px;
+    font-size: 20px;
+    background-color: #31579d;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.c-text {
+    font-size: 1.4em;
+    font-weight: 600;
+    color: #1d3769;
+}
